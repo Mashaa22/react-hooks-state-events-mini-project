@@ -5,9 +5,13 @@ import TaskList from "./TaskList";
 import { CATEGORIES, TASKS } from "../data";
 
 console.log("Here's the data you're working with");
-console.log({ CATEGORIES, TASKS });
+// console.log({ CATEGORIES, TASKS });
 
 function App() {
+
+  const listTask = { TASKS }
+  
+  // console.log({ listTask });
   return (
     <div className="App">
       <h2>My tasks</h2>
