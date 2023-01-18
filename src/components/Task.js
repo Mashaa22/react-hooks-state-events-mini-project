@@ -14,3 +14,8 @@ function Task(props) {
 }
 
 export default Task;
+
+// function handleDelete(){
+//   props.onDelete(props.text)
+// }
+// onClick={handleDelete}

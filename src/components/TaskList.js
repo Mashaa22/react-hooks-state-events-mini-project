@@ -24,7 +24,3 @@ export default TaskList;
 
 
 
-// function handleDelete(){
-//   props.onDelete(props.text)
-// }
-// onClick={handleDelete}
